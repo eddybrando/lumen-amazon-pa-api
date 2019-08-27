@@ -4663,5 +4663,6 @@
     "platform": {
         "php": ">=7.1.3"
     },
-    "platform-dev": []
+    "platform-dev": [],
+    "version": "0.0.2"
 }

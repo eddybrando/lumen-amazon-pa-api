@@ -1,7 +1,11 @@
 {
     "name": "laravel/lumen",
     "description": "The Laravel Lumen Framework.",
-    "keywords": ["framework", "laravel", "lumen"],
+    "keywords": [
+        "framework",
+        "laravel",
+        "lumen"
+    ],
     "license": "MIT",
     "type": "project",
     "require": {
@@ -38,5 +42,6 @@
         "optimize-autoloader": true
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "version": "0.0.2"
 }

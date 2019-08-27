@@ -1,6 +1,6 @@
 {
     "name": "lumen-amazon-pa-api",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Amazon Product Advertising API (PA-API) based on the Lumen PHP micro-framework",
     "main": "index.js",
     "directories": {
