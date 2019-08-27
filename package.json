@@ -1,0 +1,27 @@
+{
+    "name": "lumen-amazon-pa-api",
+    "version": "0.0.1",
+    "description": "Amazon Product Advertising API (PA-API) based on the Lumen PHP micro-framework",
+    "main": "index.js",
+    "directories": {
+        "test": "tests"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "standard-version": "^7.0.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "release": "standard-version"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/eddybrando/lumen-amazon-pa-api.git"
+    },
+    "author": "Eddybrando Vásquez",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/eddybrando/lumen-amazon-pa-api/issues"
+    },
+    "homepage": "https://github.com/eddybrando/lumen-amazon-pa-api#readme"
+}
